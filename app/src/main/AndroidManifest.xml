@@ -3,7 +3,7 @@
     <application>
         <activity
             android:name="edu.hanu.a1_2001040116.Now"
-            android:exported="false"
+            android:exported="false" not true
 
             />
     </application>
