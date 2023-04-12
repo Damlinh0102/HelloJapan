@@ -1,0 +1,20 @@
+<resources>
+    <style name="img_btn" parent="Widget.AppCompat.Button">
+        <item name="android:layout_width">75dp</item>
+        <item name="android:layout_height">85dp</item>
+        <item name="android:importantForAccessibility">no</item>
+        <item name="android:layout_margin">1dp</item>
+    </style>
+
+    <style name="button_unclicked" parent="Widget.AppCompat.Button">
+        <item name="color">#FF3700B3</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="button_clicked" parent="Widget.AppCompat.Button">
+        <item name="color">#FFBB86FC</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+</resources>
